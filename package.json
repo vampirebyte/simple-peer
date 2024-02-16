@@ -31,11 +31,11 @@
     "prettier-bytes": "^1.0.4",
     "simple-get": "^4.0.0",
     "speedometer": "^1.1.0",
-    "standard": "*",
+    "standard": "^17.1.0",
     "string-to-stream": "^3.0.1",
-    "tape": "^5.5.2",
+    "tape": "^5.7.4",
     "thunky": "^1.1.0",
-    "wrtc": "^0.4.7",
+    "@koush/wrtc": "^0.5.3",
     "ws": "^7.5.3"
   },
   "keywords": [
